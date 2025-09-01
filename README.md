@@ -18,7 +18,3 @@ It is designed for beginners and intermediate learners to understand how Java ap
 
 ---
 
-## 🛠️ Installation
-Clone the repository:
-```bash
-git clone https://github.com/your-username/java-oops.git
