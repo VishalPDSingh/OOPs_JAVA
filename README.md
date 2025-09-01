@@ -17,7 +17,7 @@ It is designed for beginners and intermediate learners to understand how Java ap
 - **Static & Final Keywords** – Usage with variables, methods, and classes
 
 # About the OOPs
-# Inheritance
+# :rocket: Inheritance
 
-:rocket:  :smile:  :fire:  :heart:  :thumbsup:
+
 
